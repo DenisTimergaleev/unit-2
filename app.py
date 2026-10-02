@@ -17,3 +17,5 @@ elif service == "good":
 elif service == "amazing":
     print (bill * 1.30)
     print ("the service was amazing! heres a 30% tip")
+
+   
