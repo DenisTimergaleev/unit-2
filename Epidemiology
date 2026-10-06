@@ -1,0 +1,4 @@
+def disease (P,N,R):
+    total = N
+    day = 0
+    total  = >P
