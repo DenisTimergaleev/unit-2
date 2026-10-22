@@ -1,4 +1,9 @@
 def disease (P,N,R):
     total = N
     day = 0
-    total  = >P
+currently_infected = N
+amount_infected = R
+while total <= P
+
+
+    disease(750,1,5)
